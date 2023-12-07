@@ -64,6 +64,6 @@ yarn/npm install
 - Axios (communication avec l'API)
 ## Captures d'Écran
 ### Todo_list
-![Capture d'Écran 1](captures/todo_list.png)
+![Capture d'Écran 1](todo_list.PNG)
 
 
