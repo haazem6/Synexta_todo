@@ -44,7 +44,7 @@ php bin/console make:migration
 php bin/console doctrine:migrations:migrate
 php bin/console server:run
 
-### frontend (React)
+## frontend (React)
 
 1. Assurez-vous d'avoir Node.js et npm installés.
 2. Installez les dépendances.
